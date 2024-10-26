@@ -8,7 +8,7 @@ import java.util.Random;
  * A Life (Game of Life) simulator, first described by British mathematician
  * John Horton Conway in 1970.
  *
- * @author David J. Barnes, Michael Kölling, Jeffery Raphael, Chen Wang & Aïda Tadlaoui
+ * @author David J. Barnes, Michael Kölling, Jeffery Raphael, Chen Wang and Aïda Tadlaoui
  * @version 2024.03.01
  */
 
