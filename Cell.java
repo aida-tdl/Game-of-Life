@@ -3,7 +3,7 @@ import javafx.scene.paint.Color;
 /**
  * A class representing the shared characteristics of all forms of life
  *
- * @author David J. Barnes, Michael Kölling, Jeffery Raphael, Chen Wang & Aïda Tadlaoui
+ * @author David J. Barnes, Michael Kölling, Jeffery Raphael, Chen Wang and Aïda Tadlaoui
  * @version 2024.03.01
  */
 
