@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * This class models the behavior and state changes of a Clostridium cell.
  *
- * @author Aïda Tadlaoui (k23090130) & Chen Wang (k23008656)
+ * @author Aïda Tadlaoui and Chen Wang 
  * @version 2024.03.01
  */
 
