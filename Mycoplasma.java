@@ -8,7 +8,7 @@ import java.util.Random;
  * bacteria, they only have 500-1000 genes! For comparison, fruit flies have
  * about 14,000 genes.
  *
- * @author David J. Barnes, Michael Kölling, Jeffery Raphael, Chen Wang & Aïda Tadlaoui
+ * @author David J. Barnes, Michael Kölling, Jeffery Raphael, Chen Wang and Aïda Tadlaoui
  * @version 2024.03.01
  */
 
