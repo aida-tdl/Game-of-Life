@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * This class models the behavior and state changes of a Ecoli cell.
  *
- * @author Aïda Tadlaoui (k23090130) & Chen Wang (k23008656)
+ * @author Aïda Tadlaoui and Chen Wang 
  * @version 2024.03.01
  */
 
